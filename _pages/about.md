@@ -22,20 +22,15 @@ Question-Answering, VQA
 Education
 =========
 
-- Mar.2024 ~ present | MS/PhD
+- **MS/PhD**  `Mar.2024 ~ present`
 
     Gwangju Institute of Science and Technology (GIST)  
-	School of Electrical Engineering and Computer Science
+    AI Graduate School
 
-- Mar.2020 ~ Feb.2024 | BS
+- **BS**  `Mar.2020 ~ Feb.2024`
 
     Gwangju Institute of Science and Technology (GIST)  
-	School of Electrical Engineering and Computer Science
-
-- Mar.2017 ~ Feb.2020
-
-    Sejong Academy of Science and Arts (SASA)  
-	Computer Science, Physics
+    School of Electrical Engineering and Computer Science
 
 # Awards and Honors
 
@@ -48,10 +43,10 @@ Education
 
 # Teach Experiences
 
-`Jul.2021 ~ Oct.2021` `Jul.2022 ~ Aug.2022` `May.2023 ~ Jun.2023`
-
 Lecturer at AI+X Program(Intel AI Drone & AWS DeepRacer), GIST AI Graduated School, Republic of Korea
 
-`Mar.2023 ~ Jun.2023`
+`Jul.2021 ~ Oct.2021` , `Jul.2022 ~ Aug.2022` , `May.2023 ~ Jun.2023`
 
 Teaching Assistant of Computer Programming(GS1401), GIST, Republic of Korea
+
+`Mar.2023 ~ Jun.2023`
