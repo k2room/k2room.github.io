@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Asia/Seoul" # "en-US"
 title                    : "Yirum Kim | 김이룸"
 title_separator          : "-"
 name                     : &name "Yirum Kim"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Yirum Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Combined MS/PhD student"
-  location         : "  Gwangju, South Korea"
-  employer         : " GIST ACSL"
-  uri              : "https://uehwan.github.io/"
+  bio              : "MS/PhD student in Gwangju Institute of Science and Technology"
+  location         : "Gwangju, South Korea"
+  employer         : "GIST ACSL"
+  uri              : # URL
   email            : "kimyirum@gm.gist.ac.kr" 
 
   # Academic websites
