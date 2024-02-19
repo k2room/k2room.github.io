@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yirum Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "GIST"
+  bio              : "Combined MS/PhD student"
+  location         : "Gwangju, South Korea"
+  employer         : "ACSL(Autonomous Computing Systems Lab)"
   uri              : # URL
   email            : "kimyirum@gm.gist.ac.kr" 
 
@@ -92,7 +92,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
