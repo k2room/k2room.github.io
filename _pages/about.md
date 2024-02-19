@@ -22,20 +22,20 @@ Question-Answering, VQA
 Education
 =========
 
-Mar.2024 ~ present | MS/PhD
+- Mar.2024 ~ present | MS/PhD
 
-Gwangju Institute of Science and Technology (GIST)
-School of Electrical Engineering and Computer Science
+    Gwangju Institute of Science and Technology (GIST)  
+	School of Electrical Engineering and Computer Science
 
-Mar.2020 ~ Feb.2024 | BS
+- Mar.2020 ~ Feb.2024 | BS
 
-Gwangju Institute of Science and Technology (GIST)
-School of Electrical Engineering and Computer Science
+    Gwangju Institute of Science and Technology (GIST)  
+	School of Electrical Engineering and Computer Science
 
-Mar.2017 ~ Feb.2020
+- Mar.2017 ~ Feb.2020
 
-Sejong Academy of Science and Arts (SASA)
-Computer Science, Physics
+    Sejong Academy of Science and Arts (SASA)  
+	Computer Science, Physics
 
 # Awards and Honors
 

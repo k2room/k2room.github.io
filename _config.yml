@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yirum Kim | ACSL"
+title                    : "Yirum Kim | 김이룸"
 title_separator          : "-"
 name                     : &name "Yirum Kim"
 description              : &description "personal page"
@@ -27,7 +27,7 @@ author:
   bio              : "Combined MS/PhD student"
   location         : "  Gwangju, South Korea"
   employer         : " GIST ACSL"
-  uri              : # URL
+  uri              : "https://uehwan.github.io/"
   email            : "kimyirum@gm.gist.ac.kr" 
 
   # Academic websites
