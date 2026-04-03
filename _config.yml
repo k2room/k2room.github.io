@@ -28,7 +28,7 @@ author:
   # location         : "https://www.gist.ac.kr/kr/main.html"
   employer         : "https://uehwan.github.io"
   uri              : # URL
-  # email            : "kimyirum@gm.gist.ac.kr" 
+  email            : "kimyirum@gm.gist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,8 +37,6 @@ author:
   orcid            : # URL "http://orcid.org/yourorcidurl"
   pubmed           : # URL"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-
-  email            : "kimyirum@gm.gist.ac.kr" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "k2room0120"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
