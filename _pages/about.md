@@ -15,7 +15,7 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 ## Publications
 ### 2026  
 - **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
-  **Yirum Kim**, Jaewoo Kim, Ue-Hwan Kim  
+  <ins>Yirum Kim</ins>, Jaewoo Kim, Ue-Hwan Kim  
   *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][Code]
 
  
