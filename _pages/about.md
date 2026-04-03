@@ -13,7 +13,6 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 
 
 ## <ins>Publications</ins>
-### 2026  
 - **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
   <ins>Yirum Kim</ins>, Jaewoo Kim, Ue-Hwan Kim  
   *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][Code]
@@ -44,9 +43,9 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 
 
 ## <ins>Work Experiences</ins>  
-- **[Autonomous Computing Systems Lab](https://uehwan.github.io)**  
+- **[Autonomous Computing Systems Lab (ACSL)](https://uehwan.github.io)**  
     M.S./Ph.D. Integrated Course (Mar 2024 ~ present)   
-- **[Autonomous Computing Systems Lab](https://uehwan.github.io)**  
+- **[Autonomous Computing Systems Lab (ACSL)](https://uehwan.github.io)**  
     Research Intern  (Mar 2023 ~ Feb 2024)  
 - **[GIST Institute for Artificial Intelligence](https://cwww.gist.ac.kr/giai/index.do)**  
     Research Intern  (Nov 2021 ~ Aug 2022)  
