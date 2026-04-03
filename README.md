@@ -1,3 +1,9 @@
+# Memo
+- _sass/ 폴더의 _base.scss, _page.scss 코드 수정하여 줄간격 조절
+- _pages/ 폴더의 md 파일 수정하여 내용 작성
+- _config.yml 파일에서 사이드바 내용 수정
+- _data/ 폴더의 navigation.yml 파일 수정하여 메뉴바 조절
+
 
 # Academic Pages
 
