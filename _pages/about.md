@@ -6,40 +6,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi:)
+I'm a Ph.D. student at ACSL @ GIST AI, advised by Prof. Ue-Hwan Kim. My research interest is 3D scene understanding for computer vision / robot AI.
 
-Research Interests
-==================
+## Publications
 
-**Computer Vision**
+## Awards and Honors
 
-Robot Vision, Geometry, 3D SGG, VPR
+- **Innovative Convergence Technology Contest (Robot track)**  
+  Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do) (Aug 2020)  
+- **Innovative Convergence Technology Contest (Robot track)**  
+  Top Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do) (Aug 2021)  
+- **University Scholarship**  
+  [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html) (Mar 2022)
+- **Scholarship / Participate in IFA @ Berlin**  
+  [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do) (Sep 2022)
 
-**Natural Language Processing**
 
-Question-Answering, VQA
+## Education
 
-Education
-=========
+- **Gwangju Institute of Science and Technology (GIST)**  
+    M.S./Ph.D. in AI Graduate School (Mar 2024 ~ present)  
+    Advisor: Ue-Hwan Kim
 
-- **MS/PhD**  `Mar.2024 ~ present`
+- **Gwangju Institute of Science and Technology (GIST)**  
+    B.S. in School of Electrical Engineering and Computer Science (Mar 2020 ~ Feb 2024)
 
-    Gwangju Institute of Science and Technology (GIST)  
-    AI Graduate School
 
-- **BS**  `Mar.2020 ~ Feb.2024`
 
-    Gwangju Institute of Science and Technology (GIST)  
-    School of Electrical Engineering and Computer Science
-
-# Awards and Honors
-
-* Excellence Award in Innovative Convergence Technology Contest(Robot track), Institute of
-  Integrated Technology, Korea `Aug.2020`
-* Top Award in Innovative Convergence Technology Contest(Robot track), Institute of Integrated
-  Technology, Korea `Aug.2021`
-* University Scholarship, GIST, Korea `Mar.2022`
-* Scholarship and Participate in 2022 IFA in Berlin, GIST AI Graduated School, Korea `Sep.2022`
 
 # Teach Experiences
 
