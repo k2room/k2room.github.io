@@ -3,6 +3,7 @@
 - _pages/ 폴더의 md 파일 수정하여 내용 작성
 - _config.yml 파일에서 사이드바 내용 수정
 - _data/ 폴더의 navigation.yml 파일 수정하여 메뉴바 조절
+- _portfolio/ 폴더의 파일 추가하여 프로젝트 내용 작성
 
 
 # Academic Pages
