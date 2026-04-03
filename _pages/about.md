@@ -69,9 +69,9 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 ## Teach Experiences
 
 - Lecturer at AI+X Program (Intel AI Drone & AWS DeepRacer)  
-    [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Republic of Korea (Jul 2021 ~ Oct 2021, Jul 2022 ~ Aug 2022, May 2023 ~ Jun 2023)
+    [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Republic of Korea 
 
 - Teaching Assistant of Computer Programming (GS1401) Course  
-    [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html), Republic of Korea (Mar 2023 ~ Jun 2023)
+    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Republic of Korea
 
 
