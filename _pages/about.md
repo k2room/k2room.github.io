@@ -6,40 +6,72 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student at ACSL @ GIST AI, advised by Prof. Ue-Hwan Kim. My research interest is 3D scene understanding for computer vision / robot AI.
+
+
+I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra).   
+My research interest is 3D scene understanding for computer vision / robot AI.
+
 
 ## Publications
+### 2026  
+- **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
+  **Yirum Kim**, Jaewoo Kim, Ue-Hwan Kim  
+  *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][Code]
+
+ 
 
 ## Awards and Honors
 
-- **Innovative Convergence Technology Contest (Robot track)**  
-  Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do) (Aug 2020)  
-- **Innovative Convergence Technology Contest (Robot track)**  
-  Top Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do) (Aug 2021)  
+- **2020 Innovative Convergence Technology Contest (Robot track)**  
+    :2nd_place_medal: Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020  
+
+- **2021 Innovative Convergence Technology Contest (Robot track)**  
+    :1st_place_medal: Top Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2021  
+
+- **2022 Innovative Convergence Technology Contest (Algorithm track)**  
+    :2nd_place_medal: Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2022  
+
 - **University Scholarship**  
-  [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html) (Mar 2022)
-- **Scholarship / Participate in IFA @ Berlin**  
-  [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do) (Sep 2022)
+    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2022
+
+- **Scholarship / Participate in [IFA @ Berlin](https://www.ifa.nl/congresses/ifa-2022-berlin)**  
+    [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Sep 2022
+
 
 
 ## Education
 
-- **Gwangju Institute of Science and Technology (GIST)**  
+- **[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html)**  
     M.S./Ph.D. in AI Graduate School (Mar 2024 ~ present)  
-    Advisor: Ue-Hwan Kim
+    Advisor: [Ue-Hwan Kim](https://uehwan.github.io)
 
-- **Gwangju Institute of Science and Technology (GIST)**  
+- **[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html)**  
     B.S. in School of Electrical Engineering and Computer Science (Mar 2020 ~ Feb 2024)
 
 
 
+## Work Experiences
 
-# Teach Experiences
+- **[Autonomous Computing Systems Lab](https://uehwan.github.io)**  
+    M.S./Ph.D. Integrated Course (Mar 2024 ~ present) 
 
-Lecturer at AI+X Program(Intel AI Drone & AWS DeepRacer), GIST AI Graduated School, Republic of Korea
+- **[Autonomous Computing Systems Lab](https://uehwan.github.io)**  
+    Research Intern  (Mar 2023 ~ Feb 2024)  
 
-`Jul.2021 ~ Oct.2021` , `Jul.2022 ~ Aug.2022` , `May.2023 ~ Jun.2023`
+- **[GIST Institute for Artificial Intelligence](https://cwww.gist.ac.kr/giai/index.do)**  
+    Research Intern  (Nov 2021 ~ Aug 2022)  
 
-Teaching Assistant of Computer Programming(GS1401), GIST, Republic of Korea
+- **[Cognition and Intelligence Lab]()**  
+    Research Intern in G-Surf Program (Jun 2021 ~ Aug 2021)
 
-`Mar.2023 ~ Jun.2023`
+
+
+## Teach Experiences
+
+- Lecturer at AI+X Program (Intel AI Drone & AWS DeepRacer)  
+    [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Republic of Korea (Jul 2021 ~ Oct 2021, Jul 2022 ~ Aug 2022, May 2023 ~ Jun 2023)
+
+- Teaching Assistant of Computer Programming (GS1401) Course  
+    [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html), Republic of Korea (Mar 2023 ~ Jun 2023)
+
+
