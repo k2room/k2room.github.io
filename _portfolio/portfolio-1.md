@@ -1,6 +1,6 @@
 ---
-title: "Quadrupedalism Robot"
-excerpt: "Designed and developed a quadrupedal robot for obstacle avoidance and navigation in indoor environments.<br/> <br/><img src='/images/robot1.jpg' style='width:280px; height:auto;'>"
+title: ":link: Quadrupedalism Robot"
+excerpt: "Designed and developed a quadrupedal robot for obstacle avoidance and navigation in indoor environments.<br/> <br/><img src='/images/robot1.jpg' style='width:720px; height:auto;'>"
 collection: portfolio
 ---
 
