@@ -30,6 +30,8 @@ My research interest is 3D scene understanding for computer vision / robot AI.
     [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2022  
 - **Scholarship / Participate in [IFA @ Berlin](https://www.ifa.nl/congresses/ifa-2022-berlin)**  
     [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Sep 2022
+- **Best Bachelor Thesis Award**  
+    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Feb 2024 
 
 
 
