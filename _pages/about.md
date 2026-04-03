@@ -21,11 +21,11 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 
 ## <ins>Awards and Honors</ins>  
 - **2020 Innovative Convergence Technology Contest (Robot track)**  
-    :2nd_place_medal: Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020   
+    :1st_place_medal: First Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020   
 - **2021 Innovative Convergence Technology Contest (Robot track)**  
-    :1st_place_medal: Top Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2021  
-- **2022 Innovative Convergence Technology Contest (Algorithm track)**  
-    :2nd_place_medal: Excellence Award, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2022  
+    :medal_sports: Grand Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2021  
+- **2023 Innovative Convergence Technology Contest (Algorithm track)**  
+    :1st_place_medal: First Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2023  
 - **University Scholarship**  
     [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2022  
 - **Scholarship / Participate in [IFA @ Berlin](https://www.ifa.nl/congresses/ifa-2022-berlin)**  
