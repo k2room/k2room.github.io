@@ -50,14 +50,14 @@
 
 .page__content {
 
-  h2 {
-    padding-bottom: 0.5em;
-    // border-bottom: 1px solid $border-color;
-  }
+//   h2 {
+//     padding-bottom: 0.5em;
+//     border-bottom: 1px solid $border-color;
+//   }
 
   p, li, dl {
     // font-size: 1em;
-    font-size: 0.7em;
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
@@ -71,6 +71,17 @@
         margin-top: -($indent-var);
       }
     }
+  }
+
+  .page__content li {
+    line-height: 1.3;
+  }
+
+  .page__content ul,
+  .page__content ol {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    padding-left: 1.5em;
   }
 
   a {
