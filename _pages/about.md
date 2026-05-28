@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content ul { padding-left: 1.2em; }
+.page__content ul li { margin-bottom: 0.2em; }
+</style>
 
 I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra).   
 My research interest is 3D scene understanding for computer vision / robot AI.
@@ -15,7 +19,7 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 ## <ins>Publications</ins>
 - **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
   <ins>Yirum Kim</ins>, Jaewoo Kim, Ue-Hwan Kim  
-  *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][Code]
+  *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][[Code](https://github.com/AutoCompSysLab/MA3DSG)]
 
  
 
