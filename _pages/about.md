@@ -17,6 +17,10 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 
 
 ## <ins>Publications</ins>
+- **OP3DSG: Open-vocabulary Part-aware 3D Scene Graph Generation for Real-world Environments**  
+  <ins>Yirum Kim</ins>, Ue-Hwan Kim  
+  *European Conference on Computer Vision (ECCV) 2026*  [[Paper]][[Code]]
+
 - **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
   <ins>Yirum Kim</ins>, Jaewoo Kim, Ue-Hwan Kim  
   *IEEE International Conference on Robotics & Automation (ICRA) 2026*  [[Paper](https://arxiv.org/abs/2602.04152)][[Code](https://github.com/AutoCompSysLab/MA3DSG)]
