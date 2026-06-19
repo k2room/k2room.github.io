@@ -165,8 +165,8 @@
         <div class="content has-text-justified" style="margin-top: 1rem;">
           <p>
             <br>We propose OP3DSG, a model designed for part-level perception and unified 3D scene graph generation in an open-vocabulary manner. The framework consists of three main components: (i) open-vocabulary object-part detection, (ii) multi-view 3D fusion, and (iii) LLM-based reasoning.
-          </p>
-          <p>
+          <!-- </p>
+          <p> -->
             In the object/part detection stage, we leverage a foundation model pretrained on part-centric datasets to handle the challenge of fine-grained part recognition. By incorporating object-part knowledge, the model ensures comprehensive perception coverage and mitigates the omission of small or functionally important parts. The 3D fusion stage incrementally integrates the segmentation results from each frame into a global 3D map. To accurately merge small parts observed from multiple views, we propose a fine-grained fusion strategy that jointly considers geometric, chromatic, and semantic consistency. Finally, in the LLM-based reasoning stage, multiple LLM agents take the geometry-initialized prior 3DSG and each textual prompt as input. Unlike VLM-based methods, whose efficiency degrades as the number of objects grows, we adopt a language-only reasoning architecture with the geometry-anchored verification gate to avoid scalability bottlenecks while maintaining robust relational reasoning.
           </p>
         </div>
