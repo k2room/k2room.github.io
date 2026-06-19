@@ -18,7 +18,7 @@ I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.g
 ## <ins>Publications</ins>
 - **OP3DSG: Open-vocabulary Part-aware 3D Scene Graph Generation for Real-world Environments**  
   <ins>Yirum Kim</ins>, Ue-Hwan Kim  
-  *European Conference on Computer Vision (ECCV) 2026*  [[Paper]][[Code]]
+  *European Conference on Computer Vision (ECCV) 2026*  [[Project](https://k2room.github.io/OP3DSG)][Paper][Code]
 
 - **MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**  
   <ins>Yirum Kim</ins>, Jaewoo Kim, Ue-Hwan Kim  
