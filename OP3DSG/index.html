@@ -146,9 +146,7 @@
         <div class="content has-text-justified">
           <!-- EDIT: paste your abstract here -->
           <p>
-            Add your abstract here. Describe the problem (open-vocabulary,
-            part-aware 3D scene graph generation for real-world environments),
-            the key idea of OP3DSG, and the main results.
+            3D scene graphs (3DSGs) provide a compact and structured abstraction of 3D environments. Although advances in foundation models have enabled open-vocabulary 3DSG generation, existing approaches remain object-centric and encode limited relational information---restricting their applicability in real-world scenarios that require fine-grained understanding. We propose OP3DSG, an open-vocabulary part-aware 3DSG generation framework that constructs unified graphs that jointly model objects, interactive parts, spatial relations, functional relations, and affordances. OP3DSG integrates object-part knowledge-guided detection with part-aware 3D fusion to preserve small and interaction-relevant components, and employs a geometry-initialized prior graph with LLM-based refinement to reduce spurious relational predictions while enabling efficient graph construction. To systematically evaluate unified 3D scene graph construction, we introduce UniGraph3D, a benchmark designed for part-aware perception and multi-level relational reasoning. Experimental results show that OP3DSG achieves state-of-the-art performance and demonstrates its effectiveness as a perception backbone in diverse real-world robotics tasks.
           </p>
         </div>
       </div>
@@ -166,7 +164,9 @@
         <img src="./static/images/pipeline.svg" alt="OP3DSG pipeline" class="method-media">
         <div class="content has-text-justified" style="margin-top: 1rem;">
           <p>
-            Add a description of your pipeline / architecture here.
+            We propose OP3DSG, a model designed for part-level perception and unified 3D scene graph generation in an open-vocabulary manner. The framework consists of three main components: (i) open-vocabulary object-part detection, (ii) multi-view 3D fusion, and (iii) LLM-based reasoning.   
+            
+            In the object/part detection stage, we leverage a foundation model pretrained on part-centric datasets to handle the challenge of fine-grained part recognition. By incorporating object-part knowledge, the model ensures comprehensive perception coverage and mitigates the omission of small or functionally important parts. The 3D fusion stage incrementally integrates the segmentation results from each frame into a global 3D map. To accurately merge small parts observed from multiple views, we propose a fine-grained fusion strategy that jointly considers geometric, chromatic, and semantic consistency. Finally, in the LLM-based reasoning stage, multiple LLM agents take the geometry-initialized prior 3DSG and each textual prompt as input. Unlike VLM-based methods, whose efficiency degrades as the number of objects grows, we adopt a language-only reasoning architecture with the geometry-anchored verification gate to avoid scalability bottlenecks while maintaining robust relational reasoning.
           </p>
         </div>
       </div>
