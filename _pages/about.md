@@ -12,8 +12,7 @@ redirect_from:
 .page__content ul li { margin-bottom: 0.2em; }
 </style>
 
-I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra).   
-My research interest is 3D scene understanding for computer vision / robot AI.
+I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra). My research interest is 3D scene understanding for computer vision / robot AI.
 
 
 ## <ins>Publications</ins>
@@ -71,8 +70,8 @@ My research interest is 3D scene understanding for computer vision / robot AI.
 
 
 ## <ins>Work Experiences</ins>  
-- **[Autonomous Computing Systems Lab (ACSL)](https://uehwan.github.io)**  
-    M.S./Ph.D. Integrated Course (Mar 2024 ~ present)   
+<!-- - **[Autonomous Computing Systems Lab (ACSL)](https://uehwan.github.io)**  
+    M.S./Ph.D. Integrated Course (Mar 2024 ~ present)    -->
 - **[Autonomous Computing Systems Lab (ACSL)](https://uehwan.github.io)**  
     Research Intern  (Mar 2023 ~ Feb 2024)  
 - **[GIST Institute for Artificial Intelligence](https://cwww.gist.ac.kr/giai/index.do)**  
