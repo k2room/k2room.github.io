@@ -81,6 +81,13 @@ body {
   font-weight: 600;
 }
 
+/* ---------- Section bands (번갈아 까는 가로 배경 띠) ---------- */
+/* class="section band" 가 붙은 섹션만 연회색 전체폭 배경이 됩니다.
+   band 를 붙였다 뗐다 하면 어느 섹션이든 줄무늬를 켜고 끌 수 있어요. */
+.band {
+  background-color: #f5f7fa;
+}
+
 /* ---------- Figures ---------- */
 .method-media {
   display: block;
