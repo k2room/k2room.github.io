@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--
+  ============================================================================
+  OP3DSG project page (nerfies-style, standalone — NOT processed by Jekyll).
+  This file has NO YAML front matter on purpose, so Jekyll copies it verbatim.
+  Served at: https://k2room.github.io/OP3DSG/
+  Edit the spots marked  "EDIT"  in the comments below to customize.
+  ============================================================================
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- EDIT: page title shown in the browser tab -->
+  <title>OP3DSG</title>
+
+  <!-- EDIT: description / social-share preview text -->
+  <meta name="description"
+        content="OP3DSG: Open-vocabulary Part-aware 3D Scene Graph Generation for Real-world Environments.">
+  <meta name="keywords" content="3D Scene Graph, Open-vocabulary, Part-aware, 3D Scene Understanding">
+
+  <!-- Open Graph / Twitter cards for nice link previews -->
+  <meta property="og:title" content="OP3DSG"/>
+  <meta property="og:description"
+        content="Open-vocabulary Part-aware 3D Scene Graph Generation for Real-world Environments."/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://k2room.github.io/OP3DSG/"/>
+  <meta property="og:image" content="https://k2room.github.io/OP3DSG/static/images/teaser.svg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+
+  <link rel="icon" href="/images/favicon.ico">
+
+  <!-- Frameworks (loaded from CDN so the folder stays self-contained & light) -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap">
+
+  <link rel="stylesheet" href="./static/css/index.css">
+</head>
+
+<body>
+
+<!-- ============================== HERO ============================== -->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+
+          <!-- EDIT: paper title -->
+          <h1 class="title is-2 publication-title">
+            OP3DSG: Open-vocabulary Part-aware 3D Scene Graph
+            Generation for Real-world Environments
+          </h1>
+
+          <!-- EDIT: authors. Wrap your own name in <span class="author-me"> -->
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://k2room.github.io/" class="author-me">Yirum Kim</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://uehwan.github.io">Ue-Hwan Kim</a><sup>1</sup></span>
+          </div>
+
+          <!-- EDIT: affiliations -->
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Gwangju Institute of Science and Technology (GIST)</span>
+          </div>
+
+          <!-- EDIT: venue -->
+          <div class="is-size-5 publication-venue">
+            European Conference on Computer Vision (ECCV) 2026
+          </div>
+
+          <!-- ===================== LINK BUTTONS ===================== -->
+          <div class="publication-links">
+            <!-- EDIT: paper / arXiv link -->
+            <span class="link-block">
+              <a href="#" class="external-link button is-rounded is-dark">
+                <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+            </span>
+            <!-- EDIT: arXiv link (delete if not yet available) -->
+            <span class="link-block">
+              <a href="#" class="external-link button is-rounded is-dark">
+                <span class="icon"><i class="ai ai-arxiv"></i></span>
+                <span>arXiv</span>
+              </a>
+            </span>
+            <!-- EDIT: code link -->
+            <span class="link-block">
+              <a href="#" class="external-link button is-rounded is-dark">
+                <span class="icon"><i class="fab fa-github"></i></span>
+                <span>Code</span>
+              </a>
+            </span>
+            <!-- Optional: video / dataset buttons — uncomment & edit
+            <span class="link-block">
+              <a href="#" class="external-link button is-rounded is-dark">
+                <span class="icon"><i class="fab fa-youtube"></i></span>
+                <span>Video</span>
+              </a>
+            </span>
+            -->
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== TEASER ============================== -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <!-- EDIT: replace teaser.svg with your teaser image/gif (e.g. teaser.png) -->
+      <img src="./static/images/teaser.svg" alt="OP3DSG teaser" class="teaser-media">
+      <!-- For a video teaser use this instead:
+      <video class="teaser-media" autoplay muted loop playsinline>
+        <source src="./static/videos/teaser.mp4" type="video/mp4">
+      </video>
+      -->
+      <h2 class="subtitle has-text-centered">
+        <!-- EDIT: one-line caption for the teaser -->
+        OP3DSG builds an <b>open-vocabulary</b>, <b>part-aware</b> 3D scene graph
+        of a real-world environment.
+      </h2>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== ABSTRACT ============================== -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <!-- EDIT: paste your abstract here -->
+          <p>
+            Add your abstract here. Describe the problem (open-vocabulary,
+            part-aware 3D scene graph generation for real-world environments),
+            the key idea of OP3DSG, and the main results.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== METHOD ============================== -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="title is-3">Method</h2>
+        <!-- EDIT: replace pipeline.svg with your method/architecture figure -->
+        <img src="./static/images/pipeline.svg" alt="OP3DSG pipeline" class="method-media">
+        <div class="content has-text-justified" style="margin-top: 1rem;">
+          <p>
+            Add a description of your pipeline / architecture here.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== VIDEO (optional) ============================== -->
+<!-- Uncomment to add a video section
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="https://www.youtube.com/embed/VIDEO_ID"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+
+<!-- ============================== BIBTEX ============================== -->
+<section class="section" id="bibtex">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">BibTeX</h2>
+    <div class="bibtex-box">
+      <button class="button is-small is-rounded copy-btn" onclick="copyBibtex(this)">
+        <span class="icon"><i class="fas fa-copy"></i></span><span>Copy</span>
+      </button>
+<pre><code id="bibtex-content">@inproceedings{kim2026op3dsg,
+  title     = {OP3DSG: Open-vocabulary Part-aware 3D Scene Graph
+               Generation for Real-world Environments},
+  author    = {Kim, Yirum and Kim, Ue-Hwan},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year      = {2026}
+}</code></pre>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FOOTER ============================== -->
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        &copy; <a href="https://k2room.github.io/">Yirum Kim</a>.
+        Page template adapted from
+        <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>
+        (<a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>).
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script src="./static/js/index.js"></script>
+</body>
+</html>
