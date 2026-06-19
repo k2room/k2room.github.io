@@ -67,8 +67,18 @@ body {
 }
 
 .teaser .subtitle {
-  margin-top: 1.25rem;
+  max-width: 760px;          /* 너비 제한 → 줄바꿈을 읽기 좋은 길이로 */
+  margin: 1.5rem auto 0;     /* 가운데 정렬된 깔끔한 블록 */
   color: #4a4a4a;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.7;          /* 줄 간격 여유 있게 */
+}
+
+/* 캡션 안의 강조 용어 살짝 돋보이게 */
+.teaser .subtitle b {
+  color: #363636;
+  font-weight: 600;
 }
 
 /* ---------- Figures ---------- */
