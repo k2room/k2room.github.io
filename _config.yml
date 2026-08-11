@@ -24,7 +24,7 @@ author:
   avatar           : "profile2.png"
   name             : "Yirum Kim"
   pronouns         : # example: "she/her"  
-  bio              : "M.S./Ph.D. student"
+  bio              : # "M.S./Ph.D. student"
   # location         : "https://www.gist.ac.kr/kr/main.html"
   employer         : "https://uehwan.github.io"
   uri              : # URL
@@ -135,9 +135,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-TSZ9KD4XB2"
 
 
 # Reading Files
