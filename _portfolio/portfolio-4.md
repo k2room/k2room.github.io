@@ -1,6 +1,7 @@
 ---
-title: ":link: Energy Management System"
-excerpt: "will be updated.<br/> <br/><img src='/images/500x300.png' style='width:720px; height:auto;'>"
+title: "🔗 Energy Management System"
+excerpt: "will be updated."
+image: "/images/500x300.png"
 collection: portfolio
 ---
 
