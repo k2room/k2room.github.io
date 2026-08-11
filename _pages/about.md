@@ -10,9 +10,18 @@ redirect_from:
 <style>
 .page__content ul { padding-left: 1.2em; }
 .page__content ul li { margin-bottom: 0.2em; }
+
+.page__content a.black-link,
+.page__content a.black-link:visited,
+.page__content a.black-link:hover,
+.page__content a.black-link:active {
+  color: inherit;
+}
 </style>
 
-I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra). My research interest is 3D scene understanding for computer vision / robot AI.
+I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.gist.ac.kr/ai/index.do), advised by [Prof. Ue-Hwan Kim](https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra). My research lies at the intersection of computer vision and robotics, with a focus on learning effective 2D/3D scene representations for embodied perception and reasoning. I investigate how fine-grained visual perception can be transformed into structured, geometrically grounded, and semantically rich representations that support robotic reasoning, planning, and interaction. Ultimately, I aim to bridge perception and high-level reasoning, enabling robots to build task-relevant world models and operate robustly in complex real-world environments.
+
+\* Keywords: 2D/3D Scene Understanding, Robotic AI, Representation Learning
 
 
 ## <ins>Publications</ins>
@@ -63,6 +72,9 @@ I'm a Ph.D. student at [ACSL](https://uehwan.github.io) @ [GIST AI](https://ai.g
 
 
 ## <ins>Education</ins>  
+- **<a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology (GIST)</a>**  
+    M.S./Ph.D. in AI Graduate School (Mar 2024 ~ present)  
+    Advisor: [Ue-Hwan Kim](https://uehwan.github.io)  
 - **[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html)**  
     M.S./Ph.D. in AI Graduate School (Mar 2024 ~ present)  
     Advisor: [Ue-Hwan Kim](https://uehwan.github.io)  
