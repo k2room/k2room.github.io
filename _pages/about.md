@@ -67,19 +67,19 @@ I'm a Ph.D. student at <a href="https://uehwan.github.io">ACSL</a> @ <a href="ht
 - **2020 Innovative Convergence Technology Contest (Robot track)**  
     :1st_place_medal: **First Prize**, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020    -->
 - **GIST Presidential Fellowship**  
-    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2024</span>  
+    <span class="small-text"><a href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2024</span>  
 - **Best Bachelor Thesis Award**  
-    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Feb 2024</span>  
+    <span class="small-text"><a href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Feb 2024</span>  
 - :1st_place_medal: **First Prize — 2023 Innovative Convergence Technology Contest (Algorithm track)**  
-    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2023</span>  
+    <span class="small-text"><a href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2023</span>  
 - **University Scholarship**  
-    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2022</span>  
-- **GIST Scholarship / Participate in <a class="black-link" href="https://www.ifa.nl/congresses/ifa-2022-berlin">IFA @ Berlin</a>**  
-    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">GIST AI Graduate School</a>, Sep 2022</span>  
+    <span class="small-text"><a href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2022</span>  
+- **GIST Scholarship / Participate in <a href="https://www.ifa.nl/congresses/ifa-2022-berlin">IFA @ Berlin</a>**  
+    <span class="small-text"><a href="https://ai.gist.ac.kr/ai/index.do">GIST AI Graduate School</a>, Sep 2022</span>  
 - :medal_sports: **Grand Prize — 2021 Innovative Convergence Technology Contest (Robot track)**  
-    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2021</span>  
+    <span class="small-text"><a href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2021</span>  
 - :1st_place_medal: **First Prize — 2020 Innovative Convergence Technology Contest (Robot track)**  
-    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2020</span>
+    <span class="small-text"><a href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2020</span>
 
 ## <ins>Education</ins>  
 - **<a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology (GIST)</a>**  
@@ -107,9 +107,9 @@ I'm a Ph.D. student at <a href="https://uehwan.github.io">ACSL</a> @ <a href="ht
     <span class="small-text">Research Intern in G-Surf Program (Jun 2021 ~ Aug 2021)</span>  
 
 ## <ins>Teach Experiences</ins>  
-- Lecturer at AI+X Program (Intel AI Drone & AWS DeepRacer)  
+- **Lecturer at AI+X Program (Intel AI Drone & AWS DeepRacer)**  
     <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">GIST AI Graduate School</a>, Republic of Korea</span>  
-- Teaching Assistant of Computer Programming (GS1401) Course  
+- **Teaching Assistant of Computer Programming (GS1401) Course**  
     <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Republic of Korea</span>  
 
 

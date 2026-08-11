@@ -7,8 +7,123 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.project-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2.2rem;
+}
+
+.project-image {
+  flex: 0 0 220px;
+}
+
+.project-image img {
+  width: 220px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+
+.project-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-title {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.1em;
+}
+
+.project-title a,
+.project-title a:visited,
+.project-title a:hover,
+.project-title a:active {
+  color: inherit;
+}
+
+.project-description {
+  margin-bottom: 0.4rem;
+  font-size: 0.95em;
+}
+
+.project-caption {
+  font-size: 0.85em;
+  opacity: 0.7;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .project-item {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .project-image {
+    flex: none;
+    width: 100%;
+  }
+
+  .project-image img {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+
+
+{% for post in site.portfolio %}
+
+<div class="project-item">
+
+  {% if post.image %}
+  <div class="project-image">
+    <a href="{{ base_path }}{{ post.url }}">
+      <img src="{{ base_path }}{{ post.image }}" alt="{{ post.title }}">
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="project-content">
+
+    <h2 class="project-title">
+      <a href="{{ base_path }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    {% if post.excerpt %}
+    <div class="project-description">
+      {{ post.excerpt | markdownify }}
+    </div>
+    {% endif %}
+
+    {% if post.caption %}
+    <div class="project-caption">
+      {{ post.caption | markdownify }}
+    </div>
+    {% endif %}
+
+  </div>
+
+</div>
+
+{% endfor %}
+
+<!-- ---
+layout: archive
+title: "PROJECTS"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
+ -->
