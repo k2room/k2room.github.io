@@ -25,14 +25,15 @@ redirect_from:
 }
 </style>
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;">
 I'm a Ph.D. student at
 <a href="https://uehwan.github.io">ACSL</a> @
 <a href="https://ai.gist.ac.kr/ai/index.do">GIST AI</a>,
 advised by
 <a href="https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra">Prof. Ue-Hwan Kim</a>.
 My research lies at the intersection of computer vision and robotics, with a focus on learning effective 2D/3D scene representations for embodied perception and reasoning. I investigate how fine-grained visual perception can be transformed into structured, geometrically grounded, and semantically rich representations that support robotic reasoning, planning, and interaction. Ultimately, I aim to bridge perception and high-level reasoning, enabling robots to build task-relevant world models and operate robustly in complex real-world environments.
-</p>
+</p> -->
+I'm a Ph.D. student at <a href="https://uehwan.github.io">ACSL</a> @ <a href="https://ai.gist.ac.kr/ai/index.do">GIST AI</a>, advised by <a href="https://scholar.google.com/citations?user=EPliWZIAAAAJ&hl=ko&oi=sra">Prof. Ue-Hwan Kim</a>. My research lies at the intersection of computer vision and robotics, with a focus on learning effective 2D/3D scene representations for embodied perception and reasoning. I investigate how fine-grained visual perception can be transformed into structured, geometrically grounded, and semantically rich representations that support robotic reasoning, planning, and interaction. Ultimately, I aim to bridge perception and high-level reasoning, enabling robots to build task-relevant world models and operate robustly in complex real-world environments.
 
 \* Keywords: 2D/3D Scene Understanding, Robotic AI, Representation Learning
 
@@ -51,7 +52,7 @@ My research lies at the intersection of computer vision and robotics, with a foc
  
 
 ## <ins>Awards and Honors</ins>  
-- **GIST Presidential Fellowship**  
+<!-- - **GIST Presidential Fellowship**  
     [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2024  
 - **Best Bachelor Thesis Award**  
     [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Feb 2024 
@@ -64,31 +65,27 @@ My research lies at the intersection of computer vision and robotics, with a foc
 - **2021 Innovative Convergence Technology Contest (Robot track)**  
     :medal_sports: **Grand Prize**, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2021  
 - **2020 Innovative Convergence Technology Contest (Robot track)**  
-    :1st_place_medal: **First Prize**, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020   
-
-<!-- ## <ins>Awards and Honors</ins>  
-- **2020 Innovative Convergence Technology Contest (Robot track)**  
-    :1st_place_medal: First Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020   
-- **2021 Innovative Convergence Technology Contest (Robot track)**  
-    :medal_sports: Grand Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2021  
-- **2023 Innovative Convergence Technology Contest (Algorithm track)**  
-    :1st_place_medal: First Prize, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2023  
-- **University Scholarship**  
-    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2022  
-- **Scholarship / Participate in [IFA @ Berlin](https://www.ifa.nl/congresses/ifa-2022-berlin)**  
-    [GIST AI Graduate School](https://ai.gist.ac.kr/ai/index.do), Sep 2022
-- **Best Bachelor Thesis Award**  
-    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Feb 2024 
+    :1st_place_medal: **First Prize**, [Institute of Integrated Technology](https://ai.gist.ac.kr/ai/index.do), Aug 2020    -->
 - **GIST Presidential Fellowship**  
-    [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/kr/main.html), Mar 2024   -->
-
-
+    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2024</span>  
+- **Best Bachelor Thesis Award**  
+    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Feb 2024</span>  
+- :1st_place_medal: **First Prize — 2023 Innovative Convergence Technology Contest (Algorithm track)**  
+    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2023</span>  
+- **University Scholarship**  
+    <span class="small-text"><a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology</a>, Mar 2022</span>  
+- **GIST Scholarship / Participate in <a class="black-link" href="https://www.ifa.nl/congresses/ifa-2022-berlin">IFA @ Berlin</a>**  
+    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">GIST AI Graduate School</a>, Sep 2022</span>  
+- :medal_sports: **Grand Prize — 2021 Innovative Convergence Technology Contest (Robot track)**  
+    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2021</span>  
+- :1st_place_medal: **First Prize — 2020 Innovative Convergence Technology Contest (Robot track)**  
+    <span class="small-text"><a class="black-link" href="https://ai.gist.ac.kr/ai/index.do">Institute of Integrated Technology</a>, Aug 2020</span>
 
 ## <ins>Education</ins>  
 - **<a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology (GIST)</a>**  
     <span class="small-text"> M.S./Ph.D. in AI Graduate School (Mar 2024 ~ present)</span>   
     <span class="small-text"> Advisor: [Ue-Hwan Kim](https://uehwan.github.io)</span>  
-- **[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/kr/main.html)**  
+- **<a class="black-link" href="https://www.gist.ac.kr/kr/main.html">Gwangju Institute of Science and Technology (GIST)</a>**  
     <span class="small-text"> B.S. in School of Electrical Engineering and Computer Science (Mar 2020 ~ Feb 2024)</span>
 
 

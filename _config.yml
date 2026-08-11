@@ -24,7 +24,7 @@ author:
   avatar           : "profile2.png"
   name             : "Yirum Kim"
   pronouns         : # example: "she/her"  
-  bio              : # "M.S./Ph.D. student"
+  bio              : " " # "M.S./Ph.D. student"
   # location         : "https://www.gist.ac.kr/kr/main.html"
   employer         : "https://uehwan.github.io"
   uri              : # URL
